@@ -9,7 +9,7 @@ on:
 
 env:
   DOTNET_VERSION: '8.0.x'
-  PROJECT_PATH: 'path/to/YourProject.csproj'
+  PROJECT_PATH: 'https://github.com/ma7job2025-hue/ma7job'
 
 jobs:
   build:
